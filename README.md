@@ -4,6 +4,7 @@
 * YSDA homework deadlines are listed in [Anytask course page](https://anytask.org/course/384).
 * Any technical issues, ideas, bugs in course materials, contribution ideas - add an [issue](https://github.com/yandexdataschool/nlp_course/issues)
 * Installing libraries and troubleshooting: [this thread](https://github.com/yandexdataschool/nlp_course/issues/1).
+* Editted by LM
 
 
 # Syllabus
